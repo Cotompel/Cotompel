@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### This is Bri Raimundo!
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)][(https://github.com/Cotompel)]
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Cotompel)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brigirai@gmail.com)
 
 Welcome to my Github page! I am Bri and I am currently studying 1º DAM at CIPFP Cheste !  
